@@ -28,11 +28,8 @@ while (true) {
               
         def line = System.console().readLine()
         int g = line.toInteger()
-        if (g == x) {
-           println "Well done" 
-        } else {
-           println "Tough luck - you're wrong"
-        }
+        if(g == x){println "Well done"} else {println "Tough luck - you're wrong"}
+
      } catch (NumberFormatException e) {
          println "The computer didn't understand '$line'"
      }
