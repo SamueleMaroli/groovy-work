@@ -5,7 +5,7 @@ while (true) {
         int x = new Math.random() * 6
         //for x in y
 
-git add .
+lol
 
 
 
