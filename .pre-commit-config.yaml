@@ -1,0 +1,8 @@
+repos:
+  - repo: local
+    hooks:
+      - id: npm-groovy-lint
+        name: npm-groovy-lint
+        entry: npm-groovy-lint --fix
+        language: system
+        types: [groovy]
