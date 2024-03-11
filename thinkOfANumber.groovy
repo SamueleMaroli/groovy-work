@@ -19,7 +19,7 @@
 /** 
  * Simple game
  * @author: Jeremy Rayner
- * based on algorithms from INPUT/Marshall Cavendish/1984 prova git 2 es
+ * based on algorithms from INPUT/Marshall Cavendish/1984 prova git 2 es groovy test 
  */
 while (true) {
     try {
