@@ -1,6 +1,4 @@
 // test che non passa
-import java.security.SecureRandom
-
 
 while (true) {
     try {
@@ -9,7 +7,11 @@ while (true) {
 
 
 
+
+
         int  a = 0
+
+
 
 
 
@@ -25,10 +27,10 @@ while (true) {
         }*/
 
 
-
-
         if (g == x) { println 'Well done' } else { println "Tough luck - you're wrong" }
 
+
+        
      } catch (NumberFormatException e) {
         println "The computer didn't understand '$line'"
     }
