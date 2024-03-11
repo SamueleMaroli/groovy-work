@@ -19,7 +19,7 @@
 /** 
  * Simple game
  * @author: Jeremy Rayner
- * based on algorithms from INPUT/Marshall Cavendish/1984 prova git 
+ * based on algorithms from INPUT/Marshall Cavendish/1984 prova git 2 es
  */
 while (true) {
     try {
