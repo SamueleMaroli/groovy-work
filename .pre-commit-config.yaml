@@ -6,3 +6,4 @@ repos:
         entry: npx --no-install npm-groovy-lint --fix
         language: system
         types: [groovy]
+        pass_filenames: true  # Assicurati che questa sia true se il tuo linter accetta nomi di file
