@@ -11,6 +11,10 @@ class ThinkOfANumber {
         int x = new SecureRandom().nextInt(6)  // Usa Random invece di Math.random() per un intero
         println 'The computer has chosen a number between 0 and 5. Can you guess it?'
 
+
+
+
+
         // Ottiene l'input dell'utente
         Scanner scanner = new Scanner(System.in)
         int guess = scanner.nextInt()
