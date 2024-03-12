@@ -4,7 +4,7 @@ import java.util.Scanner
  * Classe per pensare a un numero e fare indovinare all'utente.
  */
 @CompileStatic
-class ThinkOfANumber {
+class thinkOfANumber {
 
     static void main(String[] args) {
         // Genera un numero casuale tra 0 e 5
