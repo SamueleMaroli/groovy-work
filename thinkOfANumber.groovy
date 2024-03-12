@@ -16,6 +16,9 @@ class thinkOfANumber {
 
 
 
+
+
+
         def str = "def non piace"
 
         // Ottiene l'input dell'utente
