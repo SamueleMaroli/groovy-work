@@ -19,7 +19,7 @@ class thinkOfANumber {
 
 
 
-        def str = "def non piace"
+        //def str = "def non piace"
 
         // Ottiene l'input dell'utente
         Scanner scanner = new Scanner(System.in)

@@ -6,4 +6,4 @@ repos:
         entry: npx --no-install npm-groovy-lint --fix
         language: system
         types: [groovy]
-        pass_filenames: true  
+        #pass_filenames: true  
